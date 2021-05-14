@@ -15,11 +15,11 @@ class Countrycontroller {
     init() {
         // Let' put some Object into the array
         self.countries = [
-            CountryModel(id: UUID(), name: "Mexico", population: "127M"),
-            CountryModel(id: UUID(), name: "Canada", population: "37M"),
-            CountryModel(id: UUID(), name: "France", population: "67M"),
+            CountryModel(id: UUID(), name: "Mexico", population: "120M"),
+            CountryModel(id: UUID(), name: "Canada", population: "30M"),
+            CountryModel(id: UUID(), name: "France", population: "60M"),
             CountryModel(id: UUID(), name: "Italy", population: "60M"),
-            CountryModel(id: UUID(), name: "China", population: "1388M")
+            CountryModel(id: UUID(), name: "China", population: "1380M")
         ]
     }
     

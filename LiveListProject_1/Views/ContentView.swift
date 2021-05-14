@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  LiveListProject
 //
-//  Created by Luis Javier Carranza on 06/05/21.
+//  Created by Omar Molina on 13/05/21.
 //
 
 import SwiftUI
